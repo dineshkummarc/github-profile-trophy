@@ -32,7 +32,6 @@
 </div>
 
 # Quick Start
-
 Add the following code to your readme. When pasting the code into your profile's
 readme, change the `?username=` value to your GitHub's username.
 
@@ -45,7 +44,6 @@ readme, change the `?username=` value to your GitHub's username.
 </p>
 
 ## Use theme
-
 Add optional parameter of the theme.
 
 ```
